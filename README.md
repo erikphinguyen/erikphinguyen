@@ -24,4 +24,4 @@ const erik-nguyen = {
 
 ![Erik's GitHub stats](https://github-readme-stats.vercel.app/api?username=erikphinguyen&show_icons=true&theme=tokyonight)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erikphinguyen&layout=compact&theme=tokyonight)](https://github.com/erikphinguyen/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=erikphinguyen&repo=github-readme-stats&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=erikphinguyen&repo=github-readme-stats&theme=tokyonight)](https://github.com/erikphinguyen/github-readme-stats)
