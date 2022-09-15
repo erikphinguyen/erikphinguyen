@@ -21,3 +21,5 @@ const erik-nguyen = {
      }
   }
 ```
+
+[![Erik's GitHub stats](https://github-readme-stats.vercel.app/api?username=erikphinguyen)](https://github.com/erikphinguyen/github-readme-stats)
