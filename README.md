@@ -1,16 +1,23 @@
-### Hi there 👋
+### if (visitor) return "Hello World!  My name is Erik Nguyen"
 
-<!--
-**erikphinguyen/erikphinguyen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```javascript
+const erik-nguyen = {
+    pronouns: ["He", "Him"],
+    myers-briggs = "ENFJ-A"
+    technical-languages: ["JavaScript", "Python"],
+    technologies: {
+        backEnd: {
+            javascript: ["Node", "Express"]
+            python: ["Flask"]
+        },
+        frontEnd {
+            js: ["React", "Redux"]
+        },
+        databases = ["Sequelize", "PostgreSQL", "SQLAlchemy"]
+      },
+     hobbies: {
+        exercise: ["Gymming", "Hiking", "Swimming", "Snowboarding"],
+        creating: ["Food", "Photography", "Cinematography", "Blogs"]
+     }
+  }
+```
