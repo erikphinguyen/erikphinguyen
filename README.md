@@ -51,3 +51,4 @@ const erik-nguyen = {
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=erikphinguyen&theme=tokyonight&hide_border=false)
 
 ## 🔍 Where to Find Me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/erikphinguyen) 
