@@ -3,7 +3,7 @@
 ```javascript
 const erik-nguyen = {
     pronouns: ["He", "Him"],
-    myers-briggs = "ENFJ-A"
+    myers-briggs = "ENFJ-A",
     technical-languages: ["JavaScript", "Python"],
     technologies: {
         backEnd: {
