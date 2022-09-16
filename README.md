@@ -11,7 +11,7 @@ const erik-nguyen = {
             javascript: ["Node", "Express"],
             python: ["Flask"]
         },
-        frontEnd {
+        frontEnd: {
             js: ["React", "Redux"]
         },
         databases = ["Sequelize", "PostgreSQL", "SQLAlchemy"]
