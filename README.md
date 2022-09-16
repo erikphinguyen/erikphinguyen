@@ -8,7 +8,7 @@ const erik-nguyen = {
     technical-languages: ["JavaScript", "Python"],
     technologies: {
         backEnd: {
-            javascript: ["Node", "Express"]
+            javascript: ["Node", "Express"],
             python: ["Flask"]
         },
         frontEnd {
@@ -16,7 +16,7 @@ const erik-nguyen = {
         },
         databases = ["Sequelize", "PostgreSQL", "SQLAlchemy"]
       },
-     hobbies: {
+    hobbies: {
         exercise: ["Gymming", "Hiking", "Swimming", "Snowboarding"],
         creating: ["Food", "Photography", "Cinematography", "Blogs"]
      }
