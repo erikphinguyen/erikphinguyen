@@ -50,5 +50,5 @@ const erik-nguyen = {
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erikphinguyen&layout=compact&theme=tokyonight)](https://github.com/erikphinguyen/github-readme-stats)
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=erikphinguyen&theme=tokyonight&hide_border=false)
 
-## 🔍 Where to Find Me:
+## 🔍 Where Else to Find Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/erikphinguyen) 
