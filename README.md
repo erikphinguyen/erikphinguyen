@@ -1,5 +1,6 @@
-### if (visitor) return "Hello World!  My name is Erik Nguyen" <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">
+### <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30"> if (visitor) return "Hello World!  My name is Erik Nguyen" <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">
 
+## 💬 About Me:
 ```javascript
 const erik-nguyen = {
     pronouns: ["He", "Him"],
@@ -21,8 +22,7 @@ const erik-nguyen = {
      }
   }
 ```
-## ⚡ Technologies
-
+## 💻 Tech Stack:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
@@ -37,7 +37,7 @@ const erik-nguyen = {
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
-
+## 📊 GitHub Stats:
 ![Erik's GitHub stats](https://github-readme-stats.vercel.app/api?username=erikphinguyen&show_icons=true&theme=tokyonight)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erikphinguyen&layout=compact&theme=tokyonight)](https://github.com/erikphinguyen/github-readme-stats)
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=erikphinguyen&theme=tokyonight&hide_border=false)
