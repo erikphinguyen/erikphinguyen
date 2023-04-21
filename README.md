@@ -48,8 +48,9 @@ const erik-nguyen = {
 ![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 
-## 📊 GitHub Stats:
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=erikphinguyen&theme=tokyonight&hide_border=false)
+![Erik's GitHub stats](https://github-readme-stats.vercel.app/api?username=erikphinguyen&show_icons=true&theme=tokyonight)
+<br>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erikphinguyen&layout=compact&theme=tokyonight)](https://github.com/erikphinguyen/github-readme-stats)</br>
+
 
 ## 🔍 Where Else to Find Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/erikphinguyen) 
