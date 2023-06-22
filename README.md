@@ -5,17 +5,28 @@
 const erik-nguyen = {
     pronouns: ["He", "Him"],
     myers-briggs = "ENFJ-A",
-    technical-languages: ["JavaScript", "Python"],
+    technical-languages: ["JavaScript", "TypeScript", "Python", "GraphQL", "SQL", "HTML", "CSS", "MATLAB"],
     technologies: {
         backEnd: {
             javascript: ["Node", "Express"],
             python: ["Flask"]
         },
         frontEnd: {
-            js: ["React", "Redux"]
+            js: ["React", "Redux", "Next"]
         },
-        databases = ["Sequelize", "PostgreSQL", "SQLAlchemy"]
+        databaseRelativity = ["Sequelize", "PostgreSQL", "SQLAlchemy"]
       },
+        testing: {
+            1: "Mocha",
+            2: "Chai",
+            3: "PlayWright"
+        },
+        AWS: {
+            1: "S3",
+            2: "Lambda",
+            3: "Amplify",
+            4: "DynamoDB"
+        },
     hobbies: {
         exercise: ["Gymming", "Hiking", "Swimming", "Snowboarding"],
         creating: ["Food", "Photography", "Cinematography", "Blogs"]
