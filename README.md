@@ -27,6 +27,11 @@ const erik-nguyen = {
             3: "Amplify",
             4: "DynamoDB"
         },
+    otherSkills: {
+        1: "AutoCAD",
+        2: "LabVIEW",
+        3: "Pro II"
+    },
     hobbies: {
         exercise: ["Gymming", "Hiking", "Swimming", "Snowboarding"],
         creating: ["Food", "Photography", "Cinematography", "Blogs"]
