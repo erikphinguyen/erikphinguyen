@@ -69,7 +69,7 @@ const erik-nguyen = {
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 
 ## 📊 GitHub Stats:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erikphinguyen&layout=compact&theme=tokyonight)](https://github.com/erikphinguyen/github-readme-stats)
+<br>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erikphinguyen&layout=compact&theme=tokyonight)](https://github.com/erikphinguyen/github-readme-stats)</br>
 <img src="https://myreadme.vercel.app/api/embed/erikphinguyen?panels=userstatistics,commitgraph" alt="reimaginedreadme" />
 
 
