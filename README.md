@@ -70,7 +70,6 @@ const erik-nguyen = {
 
 ## 📊 GitHub Stats:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erikphinguyen&layout=compact&theme=tokyonight)](https://github.com/erikphinguyen/github-readme-stats)
-<br></br>
 <img src="https://myreadme.vercel.app/api/embed/erikphinguyen?panels=userstatistics,commitgraph" alt="reimaginedreadme" />
 
 
